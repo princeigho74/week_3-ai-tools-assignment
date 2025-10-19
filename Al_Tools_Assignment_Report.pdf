@@ -154,7 +154,7 @@ Cross-Validation (5-fold):
 
 ### **SCREENSHOT PLACEMENT 1: Iris Feature Distributions**
 
-**[]**
+**[https://imgur.com/gallery/al-tools-assignment-jPlg8Xc#Utj4GJu]**
 *(Screenshot shows: 4 histograms of iris features by species)*
 
 **Figure 1: Iris Feature Distributions by Species**
@@ -164,14 +164,13 @@ The histogram visualization reveals clear separation between iris species, parti
 
 ### **SCREENSHOT PLACEMENT 2: Iris Confusion Matrix**
 
-**[INSERT SCREENSHOT 2 HERE]**
+**[https://imgur.com/gallery/al-tools-assignment-jPlg8Xc#vsDLxF9]**
 *(Screenshot shows: 3x3 heatmap with predictions vs actuals)*
 
 **Figure 2: Confusion Matrix - Test Set Results (n=30)**
 
 The confusion matrix demonstrates excellent classification performance. Of 30 test samples, 29 were correctly classified. Only 1 Virginica was predicted as Versicolor, which is expected given the overlapping features between these two species. Test accuracy: 96.67%.
 
----
 
 ### Task 2: MNIST Handwritten Digit Classification with TensorFlow CNN
 
@@ -231,7 +230,7 @@ Final Test Set Results:
 
 ### **SCREENSHOT PLACEMENT 3: MNIST Training Curves**
 
-**[INSERT SCREENSHOT 3 HERE]**
+**[https://imgur.com/gallery/al-tools-assignment-jPlg8Xc#Zz9qezl]**
 *(Screenshot shows: Two plots - Accuracy and Loss curves over epochs)*
 
 **Figure 3: MNIST CNN Training Progress (10 Epochs)**
@@ -241,7 +240,7 @@ Left plot shows accuracy converging smoothly from ~92% to ~98.5%, with validatio
 
 ### **SCREENSHOT PLACEMENT 4: MNIST Sample Predictions**
 
-**[INSERT SCREENSHOT 4 HERE]**
+**[https://imgur.com/gallery/al-tools-assignment-jPlg8Xc#TgTgI7Z]**
 *(Screenshot shows: 5 handwritten digit images with predictions and confidence)*
 
 **Figure 4: MNIST Sample Predictions with Confidence Scores**
@@ -294,25 +293,23 @@ Sentiment Confidence:
 
 ### **SCREENSHOT PLACEMENT 5: NER Results Table**
 
-**[INSERT SCREENSHOT 5 HERE]**
+**[https://imgur.com/gallery/al-tools-assignment-jPlg8Xc#acGWyVx]**
 *(Screenshot shows: Table with extracted entities, types, and labels)*
 
 **Figure 5: Named Entity Recognition Results - Extracted Entities**
 
 Table displays 15 named entities extracted from 10 reviews. Entities are color-coded by type (blue for products, orange for brands). spaCy successfully identified product names and brands automatically without manual annotation, demonstrating the power of industrial NLP tooling.
 
----
 
 ### **SCREENSHOT PLACEMENT 6: Sentiment Distribution**
 
-**[INSERT SCREENSHOT 6 HERE]**
+**[https://imgur.com/gallery/al-tools-assignment-jPlg8Xc#TDU57os]**
 *(Screenshot shows: Pie chart and bar chart of sentiment distribution)*
 
 **Figure 6: Sentiment Analysis Distribution - Amazon Reviews**
 
 Pie chart (left) shows 60% positive, 20% negative, 20% neutral sentiment distribution. Bar chart (right) provides count breakdown. Overall findings: Amazon reviews are predominantly positive (60%), with some negative feedback (20%), and mixed opinions (20%). This sentiment distribution could inform product development priorities.
 
----
 
 ## PART 3: ETHICS & OPTIMIZATION
 
@@ -343,7 +340,7 @@ Pie chart (left) shows 60% positive, 20% negative, 20% neutral sentiment distrib
 
 ### **SCREENSHOT PLACEMENT 7: Bias Analysis - Class Distribution**
 
-**[INSERT SCREENSHOT 7 HERE]**
+**[ https://imgur.com/gallery/al-tools-assignment-jPlg8Xc#TDU57osp]**
 *(Screenshot shows: Bar chart of digit distribution, showing digit 7 vs digit 5)*
 
 **Figure 7: MNIST Class Distribution Analysis - Identifying Bias**
